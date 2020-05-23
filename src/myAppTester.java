@@ -1,0 +1,17 @@
+
+public class myAppTester
+{
+
+	public static void main(String[] args)
+	{
+		// TODO Auto-generated method stub
+		System.out.println("Hello Software Engineering World");
+		System.out.println(Add(10, 20));
+	}
+	
+	public static int Add(int a, int b)
+	{
+		return a + b;
+	}
+
+}
