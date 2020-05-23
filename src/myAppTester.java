@@ -13,5 +13,10 @@ public class myAppTester
 	{
 		return a + b;
 	}
+	
+	public static int Minus(int a, int b)
+	{
+		return a - b;
+	}
 
 }
