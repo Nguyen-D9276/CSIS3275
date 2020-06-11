@@ -23,5 +23,10 @@ public class myAppTester
 	{
 		return a*b;
 	}
+	
+	public static int divide(int a, int b)
+	{
+		return a/b;
+	}
 
 }
